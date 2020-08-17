@@ -13,14 +13,17 @@ public abstract class TheSystem {
 
 	public Boolean checkAvailability(Item item) {
 		// Your code here
+		return null;
 	}
 	
 	public Boolean add(Item item) {
 		// Your code here
+		return null;
 	}
 
 	public Item remove(String itemName) {
 		// Your code here
+		return null;
 	}
 
 	public abstract void display();
